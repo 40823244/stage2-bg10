@@ -23,6 +23,7 @@
 <v t="leo.20200818170909.1"><vh>slide 3-1</vh></v>
 <v t="leo.20200818170953.1"><vh>slide 3-2</vh></v>
 <v t="leo.20210423005410.1"><vh>newHeadline</vh></v>
+<v t="leo.20210423021931.1"><vh>newHeadline</vh></v>
 <v t="leo.20210423005625.1"><vh>newHeadline</vh></v>
 <v t="leo.20200818171010.1"><vh>slide 3-3</vh></v>
 </v>
@@ -196,21 +197,21 @@ vertical: body pane on the botton</t>
 &lt;/div&gt;
 </t>
 <t tx="leo.20200818170328.1">&lt;section&gt;
-            &lt;h1&gt;協同產品設計實習 報告&lt;/h1&gt;
+            &lt;h2&gt;協同產品設計實習 報告&lt;/h2&gt;
             &lt;h2&gt;stage1-bg12&lt;/h2&gt;
         &lt;p&gt;&lt;small&gt;成員40823202,40823203,40823222,40823244&lt;/small&gt; &lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20200818170636.1">&lt;section&gt;
    &lt;section&gt;
-            &lt;h1&gt;專題主題-彈珠軌道&lt;/h1&gt;
+            &lt;h5&gt;專題主題-彈珠軌道&lt;/h5&gt;
             
    &lt;/section&gt;
 </t>
 <t tx="leo.20200818170909.1">   &lt;section&gt;
             &lt;h1&gt;第一版&lt;/h1&gt;
             &lt;h10&gt;零件圖，組合圖&lt;/h10&gt;
-            &lt;p&gt;&lt;img alt="" height="231" src="./../images/jmOsSCIrM0.png" width="410"/&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;img alt="" height="118" src="./../images/SLDWORKS_cHO3uoFA7u.png" width="210"/&gt;    &lt;img alt="" height="118" src="./../images/SLDWORKS_qSBJfAGppZ.png" width="210"/&gt;&lt;/p&gt;
+            &lt;p&gt;&lt;img alt="" height="236" src="./../images/U9heZVGQPX.png" width="420"/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="236" src="./../images/SLDWORKS_6CAJZkQHhr.png" width="420"/&gt;&lt;/p&gt;
    &lt;/section&gt;
 </t>
 <t tx="leo.20200818170953.1">   &lt;section&gt;
@@ -259,8 +260,8 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200818171412.1">&lt;section&gt;
             &lt;section&gt;
-            &lt;h1&gt;心得&lt;/h1&gt;
-            &lt;h5&gt;40823202:從上次的兩人到這次的四人，我們增加了不少的機構，比起兩人的更加有挑戰性一些，透過小組的分工合作，從零開始自己設計出一個機構，也在模擬間發現問題，可以從模擬的問題中去看我們想像的機構是否行的通，大家也會一起討論來解決問題的發生，才可以完成此次的專題。 &lt;/h5&gt;
+            &lt;h5&gt;心得&lt;/h5&gt;
+            &lt;h10&gt;40823202:從上次的兩人到這次的四人，我們增加了不少的機構，比起兩人的更加有挑戰性一些，透過小組的分工合作，從零開始自己設計出一個機構，也在模擬間發現問題，可以從模擬的問題中去看我們想像的機構是否行的通，大家也會一起討論來解決問題的發生，才可以完成此次的專題。 &lt;/h10&gt;
         
            &lt;/section&gt;</t>
 <t tx="leo.20210423005410.1">   &lt;section&gt;
@@ -339,19 +340,26 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20210423020508.1">        &lt;section&gt;
         
-        &lt;h5&gt; 40823203:從兩人分組變四人分組，分組題目變得比較複雜，但是經過我們分工合作變得簡單，題目分給兩個人去畫再從中選最好的，再模擬。希望第三階段也可以藉由這次經驗變得更好。 &lt;/h5&gt;
+        &lt;h10&gt; 40823203:從兩人分組變四人分組，分組題目變得比較複雜，但是經過我們分工合作變得簡單，題目分給兩個人去畫再從中選最好的，再模擬。希望第三階段也可以藉由這次經驗變得更好。 &lt;/h10&gt;
         
         &lt;/section&gt;</t>
 <t tx="leo.20210423020509.1">        &lt;section&gt;
             
-            &lt;h5&gt; 40823222:這次的四人小組中進行的還算順利，每個人都有各自不同的想法，並且提出來討論要做的主題，最後決定要做彈珠軌道，那這次也是由我跟我的一位組員進行模擬，其餘兩位組員負責繪圖，有著各自的工作崗位，雖然中間模擬有出了許多差錯，不過找出問題的所在，讓這次的協同產品才能預期的完成。 &lt;/h5&gt;
+            &lt;h10&gt; 40823222:這次的四人小組中進行的還算順利，每個人都有各自不同的想法，並且提出來討論要做的主題，最後決定要做彈珠軌道，那這次也是由我跟我的一位組員進行模擬，其餘兩位組員負責繪圖，有著各自的工作崗位，雖然中間模擬有出了許多差錯，不過找出問題的所在，讓這次的協同產品才能預期的完成。 &lt;/h10&gt;
         
         &lt;/section&gt;</t>
 <t tx="leo.20210423020509.2">        &lt;section&gt;
             
-            &lt;h5&gt; 40823244:這次的四人小組做的其實還蠻順利,我想應該是第一次兩人小組的前車之鑑，讓我們熟悉協同的步驟，因為第一次的主題對於模擬不太吃香，所以這次的題目選擇的是彈珠檯軌道這個主題，對於繪圖的人需要構思每個零件擺放的位子，還有零件的約束，程式模擬的人也需要設定參數讓彈珠可以在軌道跑得順利，經過繪圖者與零件模擬者的模擬後，我們完成了，希望第三階段也能繼續努力。&lt;/h5&gt;
+            &lt;h10&gt; 40823244:這次的四人小組做的其實還蠻順利,我想應該是第一次兩人小組的前車之鑑，讓我們熟悉協同的步驟，因為第一次的主題對於模擬不太吃香，所以這次的題目選擇的是彈珠檯軌道這個主題，對於繪圖的人需要構思每個零件擺放的位子，還有零件的約束，程式模擬的人也需要設定參數讓彈珠可以在軌道跑得順利，經過繪圖者與零件模擬者的模擬後，我們完成了，希望第三階段也能繼續努力。&lt;/h10&gt;
         
         &lt;/section&gt;
 &lt;/section&gt;</t>
+<t tx="leo.20210423021931.1">   &lt;section&gt;
+            &lt;h1&gt;第三版&lt;/h1&gt;
+            &lt;h10&gt;模擬影片&lt;/h10&gt;
+            &lt;h10&gt;問題:從凸輪到圓盤之間的軌道做得太中間使求無法順利通過。 &lt;h10&gt;
+            &lt;h10&gt;解決:將軌道向左偏移。 &lt;h10&gt;
+        &lt;p&gt;&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/TM7NensJHdE" title="YouTube video player" width="560"&gt;&lt;/iframe&gt;&lt;/p&gt;
+   &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
