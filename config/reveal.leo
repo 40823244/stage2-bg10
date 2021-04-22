@@ -254,6 +254,7 @@ vertical: body pane on the botton</t>
             &lt;p&gt;&lt;img alt="" height="363" src="./../images/凸輪ˊ.png" width="400"/&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://www.pmai.tn.edu.tw/df_ufiles/df_pics/32710%E7%AC%AC13%E7%AB%A0.pdf"&gt;http://www.pmai.tn.edu.tw/df_ufiles/df_pics/32710%E7%AC%AC13%E7%AB%A0.pdf&lt;/a&gt;&lt;/p&gt;
         &lt;p&gt;&lt;a href="https://kknews.cc/zh-tw/news/vj3e3y.html"&gt;https://kknews.cc/zh-tw/news/vj3e3y.html&lt;/a&gt;&lt;/p&gt;
+        &lt;/section&gt;     
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818171412.1">&lt;section&gt;
@@ -338,7 +339,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20210423020508.1">        &lt;section&gt;
         
-            &lt;h2&gt; 40823203:從兩人分組變四人分組，分組題目變得比較複雜，但是經過我們分工合作變得簡單，題目分給兩個人去畫再從中選最好的，再模擬。希望第三階段也可以藉由這次經驗變得更好。 &lt;/h2&gt;
+        &lt;h2&gt; 40823203:從兩人分組變四人分組，分組題目變得比較複雜，但是經過我們分工合作變得簡單，題目分給兩個人去畫再從中選最好的，再模擬。希望第三階段也可以藉由這次經驗變得更好。 &lt;/h2&gt;
         
         &lt;/section&gt;</t>
 <t tx="leo.20210423020509.1">        &lt;section&gt;
