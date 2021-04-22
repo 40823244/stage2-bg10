@@ -39,12 +39,11 @@
 <v t="leo.20210423011731.1"><vh>newHeadline</vh></v>
 </v>
 <v t="leo.20200818171344.1"><vh>slide 9</vh></v>
-<v t="leo.20200818171412.1"><vh>slide 10</vh></v>
-<v t="leo.20200818194721.1"><vh>slide 11</vh>
-<v t="leo.20210319015157.1"><vh>newHeadline</vh></v>
-<v t="leo.20210319015255.1"><vh>newHeadline</vh></v>
+<v t="leo.20200818171412.1"><vh>slide 10</vh>
+<v t="leo.20210423020508.1"><vh>newHeadline</vh></v>
+<v t="leo.20210423020509.1"><vh>newHeadline</vh></v>
+<v t="leo.20210423020509.2"><vh>newHeadline</vh></v>
 </v>
-<v t="leo.20200818194812.1"><vh>slide 13</vh></v>
 </v>
 </v>
 </v>
@@ -241,21 +240,7 @@ vertical: body pane on the botton</t>
             &lt;h1&gt;零件圖&lt;/h1&gt;
             &lt;h10&gt;底座&lt;h10&gt;
 &lt;p&gt;&lt;img alt="" height="232" src="https://40823244.github.io/cd2021/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%20(43).png" width="500"/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;h10&gt;彈珠檯：&lt;h10&gt;
-&lt;p&gt;&lt;img alt="" height="238" src="https://40823244.github.io/cd2021/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%20(42).png" width="500"/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;h10&gt;阿基米德螺旋桿：&lt;h10&gt;
-&lt;p&gt;&lt;img alt="" height="226" src="https://40823244.github.io/cd2021/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%20(38).png" width="500"/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;h10&gt;凸輪機構：&lt;h10&gt;
-&lt;p&gt;&lt;img alt="" height="228" src="https://40823244.github.io/cd2021/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%20(35).png" width="500"/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;h10&gt;往復機構4個：&lt;h10&gt;
-&lt;p&gt;&lt;img alt="" height="232" src="https://40823244.github.io/cd2021/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%20(39).png" width="500"/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;h10&gt;圓盤&lt;h10&gt;
-&lt;p&gt;&lt;img alt="" height="232" src="https://40823244.github.io/cd2021/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%20(37).png" width="500"/&gt;&lt;/p&gt;
+
    &lt;/section&gt;
 </t>
 <t tx="leo.20200818171244.1">   &lt;section&gt;
@@ -272,375 +257,11 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818171412.1">&lt;section&gt;
+            &lt;section&gt;
             &lt;h1&gt;心得&lt;/h1&gt;
-            &lt;h2&gt;40823202:從上次的兩人到這次的四人，我們增加了不少的機構，比起兩人的更加有挑戰性一些，透過小組的分工合作，從零開始自己設計出一個機構，也在模擬間發現問題，可以從模擬的問題中去看我們想像的機構是否行的通，大家也會一起討論來解決問題的發生，才可以完成此次的專題。 
-
-40823203:從兩人分組變四人分組，分組題目變得比較複雜，但是經過我們分工合作變得簡單，題目分給兩個人去畫再從中選最好的，再模擬。希望第三階段也可以藉由這次經驗變得更好。 
-
-40823222:這次的四人小組中進行的還算順利，每個人都有各自不同的想法，並且提出來討論要做的主題，最後決定要做彈珠軌道，那這次也是由我跟我的一位組員進行模擬，其餘兩位組員負責繪圖，有著各自的工作崗位，雖然中間模擬有出了許多差錯，不過找出問題的所在，讓這次的協同產品才能預期的完成。 
-
-40823244:這次的四人小組做的其實還蠻順利,我想應該是第一次兩人小組的前車之鑑，讓我們熟悉協同的步驟，因為第一次的主題對於模擬不太吃香，所以這次的題目選擇的是彈珠檯軌道這個主題，對於繪圖的人需要構思每個零件擺放的位子，還有零件的約束，程式模擬的人也需要設定參數讓彈珠可以在軌道跑得順利，經過繪圖者與零件模擬者的模擬後，我們完成了，希望第三階段也能繼續努力。&lt;/h2&gt;
+            &lt;h2&gt;40823202:從上次的兩人到這次的四人，我們增加了不少的機構，比起兩人的更加有挑戰性一些，透過小組的分工合作，從零開始自己設計出一個機構，也在模擬間發現問題，可以從模擬的問題中去看我們想像的機構是否行的通，大家也會一起討論來解決問題的發生，才可以完成此次的專題。 &lt;/h2&gt;
         
-&lt;/section&gt;</t>
-<t tx="leo.20200818194721.1">&lt;/section&gt;
-
-&lt;section data-auto-animate&gt;
-    &lt;h2 data-id="code-title"&gt;Pretty Code&lt;/h2&gt;
-    &lt;pre data-id="code-animation"&gt;&lt;code class="hljs" data-trim data-line-numbers&gt;
-        import React, { useState } from 'react';
-</t>
-<t tx="leo.20200818194812.1">    &lt;/code&gt;&lt;/pre&gt;
-    &lt;p&gt;Code syntax highlighting courtesy of &lt;a href="https://highlightjs.org/usage/"&gt;highlight.js&lt;/a&gt;.&lt;/p&gt;
-&lt;/section&gt;
-
-&lt;section data-auto-animate&gt;
-    &lt;h2 data-id="code-title"&gt;With animations&lt;/h2&gt;
-    &lt;pre data-id="code-animation"&gt;&lt;code class="hljs" data-trim data-line-numbers="|4,8-11|17|22-24"&gt;
-        import React, { useState } from 'react';
-
-        function Example() {
-          const [count, setCount] = useState(0);
-
-          return (
-            &amp;lt;div&amp;gt;
-              &amp;lt;p&amp;gt;You clicked {count} times&amp;lt;/p&amp;gt;
-              &amp;lt;button onClick={() =&amp;gt; setCount(count + 1)}&amp;gt;
-                Click me
-              &amp;lt;/button&amp;gt;
-            &amp;lt;/div&amp;gt;
-          );
-        }
-
-        function SecondExample() {
-          const [count, setCount] = useState(0);
-
-          return (
-            &amp;lt;div&amp;gt;
-              &amp;lt;p&amp;gt;You clicked {count} times&amp;lt;/p&amp;gt;
-              &amp;lt;button onClick={() =&amp;gt; setCount(count + 1)}&amp;gt;
-                Click me
-              &amp;lt;/button&amp;gt;
-            &amp;lt;/div&amp;gt;
-          );
-        }
-    &lt;/code&gt;&lt;/pre&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
-    &lt;h2&gt;Point of View&lt;/h2&gt;
-    &lt;p&gt;
-        Press &lt;strong&gt;ESC&lt;/strong&gt; to enter the slide overview.
-    &lt;/p&gt;
-    &lt;p&gt;
-        Hold down the &lt;strong&gt;alt&lt;/strong&gt; key (&lt;strong&gt;ctrl&lt;/strong&gt; in Linux) and click on any element to zoom towards it using &lt;a href="http://lab.hakim.se/zoom-js"&gt;zoom.js&lt;/a&gt;. Click again to zoom back out.
-    &lt;/p&gt;
-    &lt;p&gt;
-        (NOTE: Use ctrl + click in Linux.)
-    &lt;/p&gt;
-&lt;/section&gt;
-
-&lt;section data-auto-animate data-auto-animate-easing="cubic-bezier(0.770, 0.000, 0.175, 1.000)"&gt;
-    &lt;h2&gt;Auto-Animate&lt;/h2&gt;
-    &lt;p&gt;Automatically animate matching elements across slides with &lt;a href="https://revealjs.com/auto-animate/"&gt;Auto-Animate&lt;/a&gt;.&lt;/p&gt;
-    &lt;div class="r-hstack justify-center"&gt;
-        &lt;div data-id="box1" style="background: #999; width: 50px; height: 50px; margin: 10px; border-radius: 5px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box2" style="background: #999; width: 50px; height: 50px; margin: 10px; border-radius: 5px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box3" style="background: #999; width: 50px; height: 50px; margin: 10px; border-radius: 5px;"&gt;&lt;/div&gt;
-    &lt;/div&gt;
-&lt;/section&gt;
-&lt;section data-auto-animate data-auto-animate-easing="cubic-bezier(0.770, 0.000, 0.175, 1.000)"&gt;
-    &lt;div class="r-hstack justify-center"&gt;
-        &lt;div data-id="box1" data-auto-animate-delay="0" style="background: cyan; width: 150px; height: 100px; margin: 10px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box2" data-auto-animate-delay="0.1" style="background: magenta; width: 150px; height: 100px; margin: 10px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box3" data-auto-animate-delay="0.2" style="background: yellow; width: 150px; height: 100px; margin: 10px;"&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;h2 style="margin-top: 20px;"&gt;Auto-Animate&lt;/h2&gt;
-&lt;/section&gt;
-&lt;section data-auto-animate data-auto-animate-easing="cubic-bezier(0.770, 0.000, 0.175, 1.000)"&gt;
-    &lt;div class="r-stack"&gt;
-        &lt;div data-id="box1" style="background: cyan; width: 300px; height: 300px; border-radius: 200px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box2" style="background: magenta; width: 200px; height: 200px; border-radius: 200px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box3" style="background: yellow; width: 100px; height: 100px; border-radius: 200px;"&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;h2 style="margin-top: 20px;"&gt;Auto-Animate&lt;/h2&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
-    &lt;h2&gt;Touch Optimized&lt;/h2&gt;
-    &lt;p&gt;
-        Presentations look great on touch devices, like mobile phones and tablets. Simply swipe through your slides.
-    &lt;/p&gt;
-&lt;/section&gt;
-
-&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-        ## Markdown support
-
-        Write content using inline or external Markdown.
-        Instructions and more info available in the [readme](https://revealjs.com/markdown/).
-
-        ```[]
-        &lt;section data-markdown&gt;
-          ## Markdown support
-
-          Write content using inline or external Markdown.
-          Instructions and more info available in the [readme](https://revealjs.com/markdown/).
-        &lt;/section&gt;
-        ```
-    &lt;/script&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
-     &lt;section id="fragments"&gt;
-         &lt;h2&gt;Fragments&lt;/h2&gt;
-         &lt;p&gt;Hit the next arrow...&lt;/p&gt;
-         &lt;p class="fragment"&gt;... to step through ...&lt;/p&gt;
-         &lt;p&gt;&lt;span class="fragment"&gt;... a&lt;/span&gt; &lt;span class="fragment"&gt;fragmented&lt;/span&gt; &lt;span class="fragment"&gt;slide.&lt;/span&gt;&lt;/p&gt;
-
-         &lt;aside class="notes"&gt;
-             This slide has fragments which are also stepped through in the notes window.
-         &lt;/aside&gt;
-     &lt;/section&gt;
-      
-     &lt;section&gt;
-         &lt;h2&gt;Fragment Styles&lt;/h2&gt;
-         &lt;p&gt;There's different types of fragments, like:&lt;/p&gt;
-         &lt;p class="fragment grow"&gt;grow&lt;/p&gt;
-         &lt;p class="fragment shrink"&gt;shrink&lt;/p&gt;
-         &lt;p class="fragment fade-out"&gt;fade-out&lt;/p&gt;
-         &lt;p&gt;
-             &lt;span style="display: inline-block;" class="fragment fade-right"&gt;fade-right, &lt;/span&gt;
-             &lt;span style="display: inline-block;" class="fragment fade-up"&gt;up, &lt;/span&gt;
-             &lt;span style="display: inline-block;" class="fragment fade-down"&gt;down, &lt;/span&gt;
-             &lt;span style="display: inline-block;" class="fragment fade-left"&gt;left&lt;/span&gt;
-         &lt;/p&gt;
-         &lt;p class="fragment fade-in-then-out"&gt;fade-in-then-out&lt;/p&gt;
-         &lt;p class="fragment fade-in-then-semi-out"&gt;fade-in-then-semi-out&lt;/p&gt;
-         &lt;p&gt;Highlight &lt;span class="fragment highlight-red"&gt;red&lt;/span&gt; &lt;span class="fragment highlight-blue"&gt;blue&lt;/span&gt; &lt;span class="fragment highlight-green"&gt;green&lt;/span&gt;&lt;/p&gt;
-     &lt;/section&gt;
-&lt;/section&gt;
-
-&lt;section id="transitions"&gt;
-    &lt;h2&gt;Transition Styles&lt;/h2&gt;
-    &lt;p&gt;
-        You can select from different transitions, like: &lt;br&gt;
-        &lt;a href="?transition=none#/transitions"&gt;None&lt;/a&gt; -
-        &lt;a href="?transition=fade#/transitions"&gt;Fade&lt;/a&gt; -
-        &lt;a href="?transition=slide#/transitions"&gt;Slide&lt;/a&gt; -
-        &lt;a href="?transition=convex#/transitions"&gt;Convex&lt;/a&gt; -
-        &lt;a href="?transition=concave#/transitions"&gt;Concave&lt;/a&gt; -
-        &lt;a href="?transition=zoom#/transitions"&gt;Zoom&lt;/a&gt;
-    &lt;/p&gt;
-&lt;/section&gt;
-
-&lt;section id="themes"&gt;
-    &lt;h2&gt;Themes&lt;/h2&gt;
-    &lt;p&gt;
-        reveal.js comes with a few themes built in: &lt;br&gt;
-        &lt;!-- Hacks to swap themes after the page has loaded. Not flexible and only intended for the reveal.js demo deck. --&gt;
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/black.css'); return false;"&gt;Black (default)&lt;/a&gt; -
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/white.css'); return false;"&gt;White&lt;/a&gt; -
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/league.css'); return false;"&gt;League&lt;/a&gt; -
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/sky.css'); return false;"&gt;Sky&lt;/a&gt; -
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/beige.css'); return false;"&gt;Beige&lt;/a&gt; -
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/simple.css'); return false;"&gt;Simple&lt;/a&gt; &lt;br&gt;
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/serif.css'); return false;"&gt;Serif&lt;/a&gt; -
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/blood.css'); return false;"&gt;Blood&lt;/a&gt; -
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/night.css'); return false;"&gt;Night&lt;/a&gt; -
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/moon.css'); return false;"&gt;Moon&lt;/a&gt; -
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/solarized.css'); return false;"&gt;Solarized&lt;/a&gt;
-    &lt;/p&gt;
-&lt;/section&gt;
-&lt;section&gt;
-    &lt;section data-background="#dddddd"&gt;
-        &lt;h2&gt;Slide Backgrounds&lt;/h2&gt;
-        &lt;p&gt;
-            Set &lt;code&gt;data-background="#dddddd"&lt;/code&gt; on a slide to change the background color. All CSS color formats are supported.
-        &lt;/p&gt;
-        &lt;a href="#" class="navigate-down"&gt;
-            &lt;img class="r-frame" style="background: rgba(255,255,255,0.1);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Down arrow"&gt;
-        &lt;/a&gt;
-    &lt;/section&gt;
-    &lt;section data-background="https://static.slid.es/reveal/image-placeholder.png"&gt;
-        &lt;h2&gt;Image Backgrounds&lt;/h2&gt;
-        &lt;pre&gt;&lt;code class="hljs html"&gt;&amp;lt;section data-background="image.png"&amp;gt;&lt;/code&gt;&lt;/pre&gt;
-    &lt;/section&gt;
-    &lt;section data-background="https://static.slid.es/reveal/image-placeholder.png" data-background-repeat="repeat" data-background-size="100px"&gt;
-        &lt;h2&gt;Tiled Backgrounds&lt;/h2&gt;
-        &lt;pre&gt;&lt;code class="hljs html" style="word-wrap: break-word;"&gt;&amp;lt;section data-background="image.png" data-background-repeat="repeat" data-background-size="100px"&amp;gt;&lt;/code&gt;&lt;/pre&gt;
-    &lt;/section&gt;
-    &lt;section data-background-video="https://s3.amazonaws.com/static.slid.es/site/homepage/v1/homepage-video-editor.mp4" data-background-color="#000000"&gt;
-        &lt;div style="background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px;"&gt;
-            &lt;h2&gt;Video Backgrounds&lt;/h2&gt;
-            &lt;pre&gt;&lt;code class="hljs html" style="word-wrap: break-word;"&gt;&amp;lt;section data-background-video="video.mp4,video.webm"&amp;gt;&lt;/code&gt;&lt;/pre&gt;
-        &lt;/div&gt;
-    &lt;/section&gt;
-    &lt;section data-background="http://i.giphy.com/90F8aUepslB84.gif"&gt;
-        &lt;h2&gt;... and GIFs!&lt;/h2&gt;
-    &lt;/section&gt;
-&lt;/section&gt;
-
-&lt;section data-transition="slide" data-background="#4d7e65" data-background-transition="zoom"&gt;
-    &lt;h2&gt;Background Transitions&lt;/h2&gt;
-    &lt;p&gt;
-        Different background transitions are available via the backgroundTransition option. This one's called "zoom".
-    &lt;/p&gt;
-    &lt;pre&gt;&lt;code class="hljs javascript"&gt;Reveal.configure({ backgroundTransition: 'zoom' })&lt;/code&gt;&lt;/pre&gt;
-&lt;/section&gt;
-
-&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
-    &lt;h2&gt;Background Transitions&lt;/h2&gt;
-    &lt;p&gt;
-        You can override background transitions per-slide.
-    &lt;/p&gt;
-    &lt;pre&gt;&lt;code class="hljs html" style="word-wrap: break-word;"&gt;&amp;lt;section data-background-transition="zoom"&amp;gt;&lt;/code&gt;&lt;/pre&gt;
-&lt;/section&gt;
-
-&lt;section data-background-iframe="https://hakim.se" data-background-interactive&gt;
-    &lt;div style="position: absolute; width: 40%; right: 0; box-shadow: 0 1px 4px rgba(0,0,0,0.5), 0 5px 25px rgba(0,0,0,0.2); background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px; font-size: 20px; text-align: left;"&gt;
-        &lt;h2&gt;Iframe Backgrounds&lt;/h2&gt;
-        &lt;p&gt;Since reveal.js runs on the web, you can easily embed other web content. Try interacting with the page in the background.&lt;/p&gt;
-    &lt;/div&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
-    &lt;h2&gt;Marvelous List&lt;/h2&gt;
-    &lt;ul&gt;
-        &lt;li&gt;No order here&lt;/li&gt;
-        &lt;li&gt;Or here&lt;/li&gt;
-        &lt;li&gt;Or here&lt;/li&gt;
-        &lt;li&gt;Or here&lt;/li&gt;
-    &lt;/ul&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
-    &lt;h2&gt;Fantastic Ordered List&lt;/h2&gt;
-    &lt;ol&gt;
-        &lt;li&gt;One is smaller than...&lt;/li&gt;
-        &lt;li&gt;Two is smaller than...&lt;/li&gt;
-        &lt;li&gt;Three!&lt;/li&gt;
-    &lt;/ol&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
-    &lt;h2&gt;Tabular Tables&lt;/h2&gt;
-    &lt;table&gt;
-        &lt;thead&gt;
-            &lt;tr&gt;
-                &lt;th&gt;Item&lt;/th&gt;
-                &lt;th&gt;Value&lt;/th&gt;
-                &lt;th&gt;Quantity&lt;/th&gt;
-            &lt;/tr&gt;
-        &lt;/thead&gt;
-        &lt;tbody&gt;
-            &lt;tr&gt;
-                &lt;td&gt;Apples&lt;/td&gt;
-                &lt;td&gt;$1&lt;/td&gt;
-                &lt;td&gt;7&lt;/td&gt;
-            &lt;/tr&gt;
-            &lt;tr&gt;
-                &lt;td&gt;Lemonade&lt;/td&gt;
-                &lt;td&gt;$2&lt;/td&gt;
-                &lt;td&gt;18&lt;/td&gt;
-            &lt;/tr&gt;
-            &lt;tr&gt;
-                &lt;td&gt;Bread&lt;/td&gt;
-                &lt;td&gt;$3&lt;/td&gt;
-                &lt;td&gt;2&lt;/td&gt;
-            &lt;/tr&gt;
-        &lt;/tbody&gt;
-    &lt;/table&gt;
-&lt;/section&gt;
-&lt;section&gt;
-    &lt;h2&gt;Clever Quotes&lt;/h2&gt;
-    &lt;p&gt;
-        These guys come in two forms, inline: &lt;q cite="http://searchservervirtualization.techtarget.com/definition/Our-Favorite-Technology-Quotations"&gt;The nice thing about standards is that there are so many to choose from&lt;/q&gt; and block:
-    &lt;/p&gt;
-    &lt;blockquote cite="http://searchservervirtualization.techtarget.com/definition/Our-Favorite-Technology-Quotations"&gt;
-        &amp;ldquo;For years there has been a theory that millions of monkeys typing at random on millions of typewriters would
-        reproduce the entire works of Shakespeare. The Internet has proven this theory to be untrue.&amp;rdquo;
-    &lt;/blockquote&gt;
-&lt;/section&gt;
-&lt;section&gt;
-    &lt;h2&gt;Intergalactic Interconnections&lt;/h2&gt;
-    &lt;p&gt;
-        You can link between slides internally,
-        &lt;a href="#/2/3"&gt;like this&lt;/a&gt;.
-    &lt;/p&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
-    &lt;h2&gt;Speaker View&lt;/h2&gt;
-    &lt;p&gt;There's a &lt;a href="https://revealjs.com/speaker-view/"&gt;speaker view&lt;/a&gt;. It includes a timer, preview of the upcoming slide as well as your speaker notes.&lt;/p&gt;
-    &lt;p&gt;Press the &lt;em&gt;S&lt;/em&gt; key to try it out.&lt;/p&gt;
-
-    &lt;aside class="notes"&gt;
-        Oh hey, these are some notes. They'll be hidden in your presentation, but you can see them if you open the speaker notes window (hit 's' on your keyboard).
-    &lt;/aside&gt;
-&lt;/section&gt;
-&lt;section&gt;
-    &lt;h2&gt;Export to PDF&lt;/h2&gt;
-    &lt;p&gt;Presentations can be &lt;a href="https://revealjs.com/pdf-export/"&gt;exported to PDF&lt;/a&gt;, here's an example:&lt;/p&gt;
-    &lt;iframe data-src="https://www.slideshare.net/slideshow/embed_code/42840540" width="445" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:3px solid #666; margin-bottom:5px; max-width: 100%;" allowfullscreen&gt; &lt;/iframe&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
-    &lt;h2&gt;Global State&lt;/h2&gt;
-    &lt;p&gt;
-        Set &lt;code&gt;data-state="something"&lt;/code&gt; on a slide and &lt;code&gt;"something"&lt;/code&gt;
-        will be added as a class to the document element when the slide is open. This lets you
-        apply broader style changes, like switching the page background.
-    &lt;/p&gt;
-&lt;/section&gt;
-
-&lt;section data-state="customevent"&gt;
-    &lt;h2&gt;State Events&lt;/h2&gt;
-    &lt;p&gt;
-        Additionally custom events can be triggered on a per slide basis by binding to the &lt;code&gt;data-state&lt;/code&gt; name.
-    &lt;/p&gt;
-    &lt;pre&gt;&lt;code class="javascript" data-trim contenteditable style="font-size: 18px;"&gt;
-Reveal.on( 'customevent', function() {
-console.log( '"customevent" has fired' );
-} );
-    &lt;/code&gt;&lt;/pre&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
-    &lt;h2&gt;Take a Moment&lt;/h2&gt;
-    &lt;p&gt;
-        Press B or . on your keyboard to pause the presentation. This is helpful when you're on stage and want to take distracting slides off the screen.
-    &lt;/p&gt;
-&lt;/section&gt;
-
-&lt;section&gt;
-    &lt;h2&gt;Much more&lt;/h2&gt;
-    &lt;ul&gt;
-        &lt;li&gt;Right-to-left support&lt;/li&gt;
-        &lt;li&gt;&lt;a href="https://revealjs.com/api/"&gt;Extensive JavaScript API&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href="https://revealjs.com/auto-slide/"&gt;Auto-progression&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href="https://revealjs.com/backgrounds/#parallax-background"&gt;Parallax backgrounds&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href="https://revealjs.com/keyboard/"&gt;Custom keyboard bindings&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-&lt;/section&gt;
-
-&lt;section style="text-align: left;"&gt;
-    &lt;h1&gt;THE END&lt;/h1&gt;
-    &lt;p&gt;
-        - &lt;a href="https://slides.com"&gt;Try the online editor&lt;/a&gt; &lt;br&gt;
-        - &lt;a href="https://github.com/hakimel/reveal.js"&gt;Source code &amp;amp; documentation&lt;/a&gt;
-    &lt;/p&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20210319015157.1">
-        function Example() {
-          const [count, setCount] = useState(0);
-
-</t>
-<t tx="leo.20210319015255.1">          return (
-            ...
-          );
-        }
-</t>
+           &lt;/section&gt;</t>
 <t tx="leo.20210423005410.1">   &lt;section&gt;
             &lt;h1&gt;第二版&lt;/h1&gt;
             &lt;h10&gt;模擬影片&lt;/h10&gt;
@@ -655,7 +276,7 @@ console.log( '"customevent" has fired' );
              &lt;h10&gt;解決:將軌道向左偏移。&lt;h10&gt;
  &lt;p&gt;&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/TM7NensJHdE" title="YouTube video player" width="560"&gt;&lt;/iframe&gt;&lt;/p&gt;
    &lt;/section&gt;</t>
-<t tx="leo.20210423011548.1">&lt;section&gt;
+<t tx="leo.20210423011548.1">    &lt;section&gt;
             &lt;h10&gt;第一次模擬影片&lt;/h10&gt;
              &lt;h10&gt;第一次模擬，零件都會亂作動。&lt;h10&gt;
 &lt;p&gt;&lt;a href="./../downloads/408232222第一次模擬.ttt"&gt;第一次模擬.ttt&lt;/a&gt;&lt;/p&gt;
@@ -663,15 +284,13 @@ console.log( '"customevent" has fired' );
 &lt;p&gt;&lt;/p&gt;
    &lt;/section&gt;
 </t>
-<t tx="leo.20210423011634.1">&lt;section&gt;
+<t tx="leo.20210423011634.1">    &lt;section&gt;
             &lt;h10&gt;第二次模擬影片&lt;/h10&gt;
            &lt;h10&gt;第二次模擬，設定好零件的可碰撞時，變可正常運作。&lt;h10&gt;
 &lt;h10&gt;問題：圓盤與彈珠台進入口的間隙過大，導致於彈珠無法順利進入彈珠檯裡面。&lt;h10&gt;
 &lt;p&gt;&lt;a href="./../downloads/彈珠軌道第二次模擬.ttt"&gt;第二次模擬.ttt&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/U0Xhc70sMcE" title="YouTube video player" width="560"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" height="268" src="./../images/第二次模擬影片.gif" width="500"/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
+
    &lt;/section&gt;</t>
 <t tx="leo.20210423011731.1">&lt;section&gt;
             &lt;h10&gt;最後模擬&lt;/h10&gt;
@@ -681,7 +300,7 @@ console.log( '"customevent" has fired' );
 &lt;/section&gt;</t>
 <t tx="leo.20210423014847.1">   &lt;section&gt;
         
-    &lt;h1&gt;彈珠檯：&lt;/h1&gt;
+    &lt;h10&gt;彈珠檯：&lt;/h10&gt;
 &lt;p&gt;&lt;img alt="" height="238" src="https://40823244.github.io/cd2021/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%20(42).png" width="500"/&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 
@@ -689,7 +308,7 @@ console.log( '"customevent" has fired' );
 </t>
 <t tx="leo.20210423014848.1">   &lt;section&gt;
     
-    &lt;h1&gt;阿基米德螺旋桿：&lt;/h1&gt;
+    &lt;h10&gt;阿基米德螺旋桿：&lt;/h10&gt;
 &lt;p&gt;&lt;img alt="" height="226" src="https://40823244.github.io/cd2021/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%20(38).png" width="500"/&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 
@@ -698,24 +317,40 @@ console.log( '"customevent" has fired' );
 </t>
 <t tx="leo.20210423014849.1">   &lt;section&gt;
           
-          &lt;h1&gt;凸輪機構：&lt;/h1&gt;
+          &lt;h10&gt;凸輪機構：&lt;/h10&gt;
 &lt;p&gt;&lt;img alt="" height="228" src="https://40823244.github.io/cd2021/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%20(35).png" width="500"/&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 
     &lt;/section&gt;</t>
 <t tx="leo.20210423015130.1">   &lt;section&gt;
             
-            &lt;h1&gt;往復機構4個：&lt;/h1&gt;
+            &lt;h10&gt;往復機構4個：&lt;/h10&gt;
 &lt;p&gt;&lt;img alt="" height="232" src="https://40823244.github.io/cd2021/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%20(39).png" width="500"/&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 
     &lt;/section&gt;</t>
 <t tx="leo.20210423015130.2">   &lt;section&gt;
             
-            &lt;h1&gt;圓盤&lt;/h1&gt;
+            &lt;h10&gt;圓盤&lt;/h10&gt;
 &lt;p&gt;&lt;img alt="" height="232" src="https://40823244.github.io/cd2021/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%20(37).png" width="500"/&gt;&lt;/p&gt;
   
    &lt;/section&gt;
 </t>
+<t tx="leo.20210423020508.1">        &lt;section&gt;
+        
+            &lt;h2&gt; 40823203:從兩人分組變四人分組，分組題目變得比較複雜，但是經過我們分工合作變得簡單，題目分給兩個人去畫再從中選最好的，再模擬。希望第三階段也可以藉由這次經驗變得更好。 &lt;/h2&gt;
+        
+        &lt;/section&gt;</t>
+<t tx="leo.20210423020509.1">        &lt;section&gt;
+            
+            &lt;h2&gt; 40823222:這次的四人小組中進行的還算順利，每個人都有各自不同的想法，並且提出來討論要做的主題，最後決定要做彈珠軌道，那這次也是由我跟我的一位組員進行模擬，其餘兩位組員負責繪圖，有著各自的工作崗位，雖然中間模擬有出了許多差錯，不過找出問題的所在，讓這次的協同產品才能預期的完成。 &lt;/h2&gt;
+        
+        &lt;/section&gt;</t>
+<t tx="leo.20210423020509.2">        &lt;section&gt;
+            
+            &lt;h2&gt; 40823244:這次的四人小組做的其實還蠻順利,我想應該是第一次兩人小組的前車之鑑，讓我們熟悉協同的步驟，因為第一次的主題對於模擬不太吃香，所以這次的題目選擇的是彈珠檯軌道這個主題，對於繪圖的人需要構思每個零件擺放的位子，還有零件的約束，程式模擬的人也需要設定參數讓彈珠可以在軌道跑得順利，經過繪圖者與零件模擬者的模擬後，我們完成了，希望第三階段也能繼續努力。&lt;/h2&gt;
+        
+        &lt;/section&gt;
+&lt;/section&gt;</t>
 </tnodes>
 </leo_file>
