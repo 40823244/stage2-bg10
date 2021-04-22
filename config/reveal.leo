@@ -28,6 +28,11 @@
 </v>
 <v t="leo.20200818171138.1"><vh>slide 5 </vh>
 <v t="leo.20200818171215.1"><vh>slide 6</vh></v>
+<v t="leo.20210423014847.1"><vh>newHeadline</vh></v>
+<v t="leo.20210423014848.1"><vh>newHeadline</vh></v>
+<v t="leo.20210423014849.1"><vh>newHeadline</vh></v>
+<v t="leo.20210423015130.1"><vh>newHeadline</vh></v>
+<v t="leo.20210423015130.2"><vh>newHeadline</vh></v>
 <v t="leo.20200818171244.1"><vh>slide 7 </vh></v>
 <v t="leo.20210423011548.1"><vh>newHeadline</vh></v>
 <v t="leo.20210423011634.1"><vh>newHeadline</vh></v>
@@ -674,5 +679,43 @@ console.log( '"customevent" has fired' );
 &lt;p&gt;&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/G3oRRCDTKp8" title="YouTube video player" width="560"&gt;&lt;/iframe&gt;&lt;/p&gt;
    &lt;/section&gt;
 &lt;/section&gt;</t>
+<t tx="leo.20210423014847.1">   &lt;section&gt;
+        
+    &lt;h1&gt;彈珠檯：&lt;/h1&gt;
+&lt;p&gt;&lt;img alt="" height="238" src="https://40823244.github.io/cd2021/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%20(42).png" width="500"/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+   &lt;/section&gt;
+</t>
+<t tx="leo.20210423014848.1">   &lt;section&gt;
+    
+    &lt;h1&gt;阿基米德螺旋桿：&lt;/h1&gt;
+&lt;p&gt;&lt;img alt="" height="226" src="https://40823244.github.io/cd2021/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%20(38).png" width="500"/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+    &lt;/section&gt;
+
+</t>
+<t tx="leo.20210423014849.1">   &lt;section&gt;
+          
+          &lt;h1&gt;凸輪機構：&lt;/h1&gt;
+&lt;p&gt;&lt;img alt="" height="228" src="https://40823244.github.io/cd2021/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%20(35).png" width="500"/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+    &lt;/section&gt;</t>
+<t tx="leo.20210423015130.1">   &lt;section&gt;
+            
+            &lt;h1&gt;往復機構4個：&lt;/h1&gt;
+&lt;p&gt;&lt;img alt="" height="232" src="https://40823244.github.io/cd2021/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%20(39).png" width="500"/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+    &lt;/section&gt;</t>
+<t tx="leo.20210423015130.2">   &lt;section&gt;
+            
+            &lt;h1&gt;圓盤&lt;/h1&gt;
+&lt;p&gt;&lt;img alt="" height="232" src="https://40823244.github.io/cd2021/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%20(37).png" width="500"/&gt;&lt;/p&gt;
+  
+   &lt;/section&gt;
+</t>
 </tnodes>
 </leo_file>
