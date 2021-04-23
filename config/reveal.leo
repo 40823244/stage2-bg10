@@ -169,7 +169,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818165438.1">&lt;head&gt;
     &lt;meta charset="utf-8"&gt;
 
-    &lt;title&gt;reveal.js – The HTML Presentation Framework&lt;/title&gt;
+    &lt;title&gt;stage2-bg10&lt;/title&gt;
 
     &lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
     &lt;meta name="author" content="Hakim El Hattab"&gt;
@@ -209,9 +209,8 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200818170909.1">   &lt;section&gt;
             &lt;h1&gt;第一版&lt;/h1&gt;
-            &lt;h10&gt;零件圖，組合圖&lt;/h10&gt;
+            &lt;h10&gt;零件圖&lt;/h10&gt;
             &lt;p&gt;&lt;img alt="" height="236" src="./../images/U9heZVGQPX.png" width="420"/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" height="236" src="./../images/SLDWORKS_6CAJZkQHhr.png" width="420"/&gt;&lt;/p&gt;
    &lt;/section&gt;
 </t>
 <t tx="leo.20200818170953.1">   &lt;section&gt;
